@@ -1,0 +1,13 @@
+Flask
+Gunicorn
+requests
+Flask-JWT-Extended 
+Flask-CORS 
+Flask-PyMongo 
+Flask-Bcrypt 
+pymongo 
+mongoengine
+PyMuPDF
+openai
+pandas
+openpyxl
