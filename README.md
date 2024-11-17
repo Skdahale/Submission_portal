@@ -2,6 +2,10 @@
 ## Register a new admin 
 ![Screenshot 2024-11-17 181402](https://github.com/user-attachments/assets/3e58e0f2-263e-4d9a-a42e-8b55f54876be)
 
+## Register User
+![Screenshot 2024-11-17 182712](https://github.com/user-attachments/assets/136a7321-4817-45d5-b3bd-73e5e0fd1b4c)
+
+
 ## Mongodb
 ![Screenshot 2024-11-17 181647](https://github.com/user-attachments/assets/144f5854-5d09-48c3-89e6-77a15485506d)
 
